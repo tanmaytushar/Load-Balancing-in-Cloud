@@ -1,0 +1,641 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{39}
+% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
+\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
+\ifx \binits  \undefined \def \binits#1{#1}\fi
+\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
+\ifx \batitle  \undefined \def \batitle#1{#1}\fi
+\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
+\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
+\ifx \byear  \undefined \def \byear#1{#1}\fi
+\ifx \bissue  \undefined \def \bissue#1{#1}\fi
+\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
+\ifx \blpage  \undefined \def \blpage #1{#1}\fi
+\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
+\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
+\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
+\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
+\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
+\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
+\ifx \beditor  \undefined \def \beditor#1{#1}\fi
+\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
+\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
+\ifx \bedition  \undefined \def \bedition#1{#1}\fi
+\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
+\ifx \blocation  \undefined \def \blocation#1{#1}\fi
+\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
+\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
+\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
+\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
+\ifx \barticle \undefined \def \barticle#1{#1}\fi
+\bibcommenthead
+\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
+\ifx \botherref \undefined \def \botherref #1{#1}\fi
+\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
+\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
+\ifx \bbook \undefined \def \bbook#1{#1}\fi
+\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
+\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
+\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
+\ifx \endbibitem  \undefined \def \endbibitem {}\fi
+\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
+\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
+\csname PreBibitemsHook\endcsname
+
+%%% 1
+\bibitem[\protect\citeauthoryear{Mell and Grance}{2011}]{cloudComputing}
+\begin{botherref}
+\oauthor{\bsnm{Mell}, \binits{P.}},
+\oauthor{\bsnm{Grance}, \binits{T.}}:
+The nist definition of cloud computing.
+Technical Report 800-145,
+National Institute of Standards and Technology,
+Gaithersburg, MD
+(September 2011).
+\doiurl{10.6028/NIST.SP.800-145} .
+\url{https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf}
+\end{botherref}
+\endbibitem
+
+%%% 2
+\bibitem[\protect\citeauthoryear{Kumar et~al.}{2020}]{Convergence}
+\begin{botherref}
+\oauthor{\bsnm{Kumar}, \binits{J.}},
+\oauthor{\bsnm{Rani}, \binits{A.}},
+\oauthor{\bsnm{Dhurandher}, \binits{S.}}:
+Convergence of user and service provider perspectives in mobile cloud computing
+  environment: Taxonomy and challenges.
+International Journal of Communication Systems
+\textbf{33}
+(2020)
+\doiurl{10.1002/dac.4636}
+\end{botherref}
+\endbibitem
+
+%%% 3
+\bibitem[\protect\citeauthoryear{Kumar and
+  Singh}{2021}]{JitendraWorkloadPrediction}
+\begin{barticle}
+\bauthor{\bsnm{Kumar}, \binits{J.}},
+\bauthor{\bsnm{Singh}, \binits{A.}}:
+\batitle{Performance evaluation of metaheuristics algorithms for workload
+  prediction in cloud environment}.
+\bjtitle{Applied Soft Computing}
+\bvolume{113},
+\bfpage{107895}
+(\byear{2021})
+\doiurl{10.1016/j.asoc.2021.107895}
+\end{barticle}
+\endbibitem
+
+%%% 4
+\bibitem[\protect\citeauthoryear{Rana et~al.}{2024}]{Rana2024VMSchedulingSLR}
+\begin{botherref}
+\oauthor{\bsnm{Rana}, \binits{N.}},
+\oauthor{\bsnm{Jeribi}, \binits{F.}},
+\oauthor{\bsnm{Khan}, \binits{Z.}},
+\oauthor{\bsnm{Alrawagfeh}, \binits{W.}},
+\oauthor{\bsnm{Ben~Dhaou}, \binits{I.}},
+\oauthor{\bsnm{Haseebuddin}, \binits{M.}},
+\oauthor{\bsnm{Uddin}, \binits{M.}}:
+A systematic literature review on contemporary and future trends in virtual
+  machine scheduling techniques in cloud and multi-access computing.
+Frontiers in Computer Science
+\textbf{6}
+(2024)
+\doiurl{10.3389/fcomp.2024.1288552}
+\end{botherref}
+\endbibitem
+
+%%% 5
+\bibitem[\protect\citeauthoryear{Shahid et~al.}{2020}]{loadBalancing}
+\begin{barticle}
+\bauthor{\bsnm{Shahid}, \binits{M.A.}},
+\bauthor{\bsnm{Islam}, \binits{N.}},
+\bauthor{\bsnm{Alam}, \binits{M.M.}},
+\bauthor{\bsnm{Su’ud}, \binits{M.M.}},
+\bauthor{\bsnm{Musa}, \binits{S.}}:
+\batitle{A comprehensive study of load balancing approaches in the cloud
+  computing environment and a novel fault tolerance approach}.
+\bjtitle{IEEE Access}
+\bvolume{8},
+\bfpage{130500}--\blpage{130526}
+(\byear{2020})
+\doiurl{10.1109/ACCESS.2020.3009184}
+\end{barticle}
+\endbibitem
+
+%%% 6
+\bibitem[\protect\citeauthoryear{Alicherry and Lakshman}{2013}]{bib6}
+\begin{bchapter}
+\bauthor{\bsnm{Alicherry}, \binits{M.}},
+\bauthor{\bsnm{Lakshman}, \binits{T.}}:
+\bctitle{Optimizing data access latencies in cloud systems by intelligent
+  virtual machine placement}.
+In: \bbtitle{2013 Proceedings IEEE INFOCOM},
+pp. \bfpage{647}--\blpage{655}
+(\byear{2013}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 7
+\bibitem[\protect\citeauthoryear{Wang et~al.}{2025}]{IEA2025EnergyAI}
+\begin{barticle}
+\bauthor{\bsnm{Wang}, \binits{Q.}},
+\bauthor{\bsnm{Li}, \binits{Y.}},
+\bauthor{\bsnm{Li}, \binits{R.}}:
+\batitle{Integrating artificial intelligence in energy transition: A
+  comprehensive review}.
+\bjtitle{Energy Strategy Reviews}
+\bvolume{57},
+\bfpage{101600}
+(\byear{2025})
+\end{barticle}
+\endbibitem
+
+%%% 8
+\bibitem[\protect\citeauthoryear{Boulmier et~al.}{2022}]{loadBalancing2}
+\begin{barticle}
+\bauthor{\bsnm{Boulmier}, \binits{A.}},
+\bauthor{\bsnm{Abdennadher}, \binits{N.}},
+\bauthor{\bsnm{Chopard}, \binits{B.}}:
+\batitle{Optimal load balancing and assessment of existing load balancing
+  criteria}.
+\bjtitle{Journal of Parallel and Distributed Computing}
+\bvolume{169},
+\bfpage{211}--\blpage{225}
+(\byear{2022})
+\doiurl{10.1016/j.jpdc.2022.07.002}
+\end{barticle}
+\endbibitem
+
+%%% 9
+\bibitem[\protect\citeauthoryear{Syed et~al.}{2024}]{LoadBalancing3_sol}
+\begin{botherref}
+\oauthor{\bsnm{Syed}, \binits{D.}},
+\oauthor{\bsnm{Muhammad}, \binits{G.}},
+\oauthor{\bsnm{Rizvi}, \binits{S.}}:
+Systematic review: Load balancing in cloud computing by using metaheuristic
+  based dynamic algorithms.
+Intelligent Automation \& Soft Computing
+\textbf{39}(3)
+(2024)
+\end{botherref}
+\endbibitem
+
+%%% 10
+\bibitem[\protect\citeauthoryear{Sultan}{2026}]{sultan2026improving_lb_csplus}
+\begin{barticle}
+\bauthor{\bsnm{Sultan}, \binits{N.A.}}:
+\batitle{Improving cloud task scheduling in cloud sim plus using demand-aware
+  vm selection}.
+\bjtitle{Sistemasi: Jurnal Sistem Informasi}
+\bvolume{15}(\bissue{4}),
+\bfpage{1348}--\blpage{1362}
+(\byear{2026})
+\end{barticle}
+\endbibitem
+
+%%% 11
+\bibitem[\protect\citeauthoryear{Anbarkhan and Rakrouki}{2023}]{PSO}
+\begin{barticle}
+\bauthor{\bsnm{Anbarkhan}, \binits{S.H.}},
+\bauthor{\bsnm{Rakrouki}, \binits{M.A.}}:
+\batitle{An enhanced pso algorithm for scheduling workflow tasks in cloud
+  computing}.
+\bjtitle{Electronics}
+\bvolume{12}(\bissue{12}),
+\bfpage{2580}
+(\byear{2023})
+\end{barticle}
+\endbibitem
+
+%%% 12
+\bibitem[\protect\citeauthoryear{Adegbite}{2025}]{Adegbite2026_intro_for_meta_as_sol}
+\begin{botherref}
+\oauthor{\bsnm{Adegbite}, \binits{C.}}:
+A fault tolerant honeybee behaviour load balancing algorithm.
+Master's thesis,
+Tennessee State University
+(2025)
+\end{botherref}
+\endbibitem
+
+%%% 13
+\bibitem[\protect\citeauthoryear{Zhou et~al.}{2023}]{JinchengLoadBalancing}
+\begin{botherref}
+\oauthor{\bsnm{Zhou}, \binits{J.}},
+\oauthor{\bsnm{Kumar~Lilhore}, \binits{D.}},
+\oauthor{\bsnm{Tao}, \binits{H.}},
+\oauthor{\bsnm{Simaiya}, \binits{S.}},
+\oauthor{\bsnm{Jawawi}, \binits{D.}},
+\oauthor{\bsnm{Alsekait}, \binits{D.}},
+\oauthor{\bsnm{Ahuja}, \binits{S.}},
+\oauthor{\bsnm{Biamba}, \binits{C.}},
+\oauthor{\bsnm{Hamdi}, \binits{M.}}:
+Comparative analysis of metaheuristic load balancing algorithms for efficient
+  load balancing in cloud computing.
+Journal of Cloud Computing
+\textbf{12}
+(2023)
+\doiurl{10.1186/s13677-023-00453-3}
+\end{botherref}
+\endbibitem
+
+%%% 14
+\bibitem[\protect\citeauthoryear{Blum and Roli}{2003}]{Blum2003}
+\begin{barticle}
+\bauthor{\bsnm{Blum}, \binits{C.}},
+\bauthor{\bsnm{Roli}, \binits{A.}}:
+\batitle{Metaheuristics in combinatorial optimization: Overview and conceptual
+  comparison}.
+\bjtitle{ACM computing surveys (CSUR)}
+\bvolume{35}(\bissue{3}),
+\bfpage{268}--\blpage{308}
+(\byear{2003})
+\end{barticle}
+\endbibitem
+
+%%% 15
+\bibitem[\protect\citeauthoryear{Mansouri et~al.}{2019}]{bib7}
+\begin{barticle}
+\bauthor{\bsnm{Mansouri}, \binits{N.}},
+\bauthor{\bsnm{Zade}, \binits{B.M.H.}},
+\bauthor{\bsnm{Javidi}, \binits{M.M.}}:
+\batitle{Hybrid task scheduling strategy for cloud computing by modified
+  particle swarm optimization and fuzzy theory}.
+\bjtitle{Computers \& Industrial Engineering}
+\bvolume{130},
+\bfpage{597}--\blpage{633}
+(\byear{2019})
+\doiurl{10.1016/j.cie.2019.03.006}
+\end{barticle}
+\endbibitem
+
+%%% 16
+\bibitem[\protect\citeauthoryear{Li and Zomaya}{2018}]{Li2018}
+\begin{barticle}
+\bauthor{\bsnm{Li}, \binits{K.}},
+\bauthor{\bsnm{Zomaya}, \binits{A.Y.}}:
+\batitle{Energy-aware scheduling for cloud computing: A survey}.
+\bjtitle{ACM Computing Surveys (CSUR)}
+\bvolume{51}(\bissue{3}),
+\bfpage{1}--\blpage{35}
+(\byear{2018})
+\doiurl{10.1145/3186832}
+\end{barticle}
+\endbibitem
+
+%%% 17
+\bibitem[\protect\citeauthoryear{Kennedy and Eberhart}{1995}]{Kennedy1995}
+\begin{bchapter}
+\bauthor{\bsnm{Kennedy}, \binits{J.}},
+\bauthor{\bsnm{Eberhart}, \binits{R.}}:
+\bctitle{Particle swarm optimization}.
+In: \bbtitle{Proceedings of ICNN'95 - International Conference on Neural
+  Networks},
+pp. \bfpage{1942}--\blpage{19484}
+(\byear{1995}).
+\doiurl{10.1109/ICNN.1995.488968}
+\end{bchapter}
+\endbibitem
+
+%%% 18
+\bibitem[\protect\citeauthoryear{Dorigo}{1992}]{Dorigo1992}
+\begin{botherref}
+\oauthor{\bsnm{Dorigo}, \binits{M.}}:
+Optimization, learning and natural algorithms.
+PhD thesis, Politecnico di Milano, Italy
+(1992)
+\end{botherref}
+\endbibitem
+
+%%% 19
+\bibitem[\protect\citeauthoryear{Yang}{2010}]{Yang2010}
+\begin{barticle}
+\bauthor{\bsnm{Yang}, \binits{X.-S.}}:
+\batitle{A brief introduction to nature-inspired metaheuristic algorithms}.
+\bjtitle{Studies in Computational Intelligence}
+\bvolume{284},
+\bfpage{1}--\blpage{21}
+(\byear{2010})
+\doiurl{10.1007/978-3-642-04944-6_1}
+\end{barticle}
+\endbibitem
+
+%%% 20
+\bibitem[\protect\citeauthoryear{Kayalvili et~al.}{2025}]{Kayalvili2025CloudRA}
+\begin{barticle}
+\bauthor{\bsnm{Kayalvili}, \binits{S.}},
+\bauthor{\bsnm{Senthilkumar}, \binits{R.}},
+\bauthor{\bsnm{Yasotha}, \binits{S.}},
+\bauthor{\bsnm{Kamalakannan}, \binits{R.}}:
+\batitle{An optimized resource allocation in cloud using prediction enabled
+  reinforcement learning}.
+\bjtitle{Scientific Reports}
+\bvolume{15}(\bissue{1}),
+\bfpage{36088}
+(\byear{2025})
+\end{barticle}
+\endbibitem
+
+%%% 21
+\bibitem[\protect\citeauthoryear{Buyya et~al.}{2009}]{Buyya2010}
+\begin{barticle}
+\bauthor{\bsnm{Buyya}, \binits{R.}},
+\bauthor{\bsnm{Yeo}, \binits{C.S.}},
+\bauthor{\bsnm{Venugopal}, \binits{S.}},
+\bauthor{\bsnm{Broberg}, \binits{J.}},
+\bauthor{\bsnm{Brandic}, \binits{I.}}:
+\batitle{Cloud computing and emerging it platforms: Vision, hype, and reality
+  for delivering computing as the 5th utility}.
+\bjtitle{Future Generation Computer Systems}
+\bvolume{25}(\bissue{6}),
+\bfpage{599}--\blpage{616}
+(\byear{2009})
+\doiurl{10.1016/j.future.2008.12.001}
+\end{barticle}
+\endbibitem
+
+%%% 22
+\bibitem[\protect\citeauthoryear{Sefati and Navimipour}{2021}]{QoS}
+\begin{barticle}
+\bauthor{\bsnm{Sefati}, \binits{S.}},
+\bauthor{\bsnm{Navimipour}, \binits{N.J.}}:
+\batitle{A qos-aware service composition mechanism in the internet of things
+  using a hidden-markov-model-based optimization algorithm}.
+\bjtitle{IEEE Internet of Things Journal}
+\bvolume{8}(\bissue{20}),
+\bfpage{15620}--\blpage{15627}
+(\byear{2021})
+\doiurl{10.1109/JIOT.2021.3074499}
+\end{barticle}
+\endbibitem
+
+%%% 23
+\bibitem[\protect\citeauthoryear{Fathollahi-Fard et~al.}{2020}]{red_deer}
+\begin{barticle}
+\bauthor{\bsnm{Fathollahi-Fard}, \binits{A.M.}},
+\bauthor{\bsnm{Hajiaghaei-Keshteli}, \binits{M.}},
+\bauthor{\bsnm{Tavakkoli-Moghaddam}, \binits{R.}}:
+\batitle{Red deer algorithm (rda): a new nature-inspired meta-heuristic}.
+\bjtitle{Soft computing}
+\bvolume{24},
+\bfpage{14637}--\blpage{14665}
+(\byear{2020})
+\end{barticle}
+\endbibitem
+
+%%% 24
+\bibitem[\protect\citeauthoryear{Pradhan et~al.}{2022}]{red_deer_Pradhan2022}
+\begin{botherref}
+\oauthor{\bsnm{Pradhan}, \binits{B.}},
+\oauthor{\bsnm{Das}, \binits{D.}},
+\oauthor{\bsnm{Sahoo}, \binits{S.}}:
+An efficient red deer algorithm for multi-objective optimization problems.
+Journal of Ambient Intelligence and Humanized Computing,
+1--17
+(2022)
+\doiurl{10.1007/s12652-022-03714-w}
+\end{botherref}
+\endbibitem
+
+%%% 25
+\bibitem[\protect\citeauthoryear{Srinivas
+  et~al.}{2023}]{VenkataSrinivas2023_RDA}
+\begin{bchapter}
+\bauthor{\bsnm{Srinivas}, \binits{C.M.V.}},
+\bauthor{\bsnm{Rena}, \binits{H.}},
+\bauthor{\bsnm{Arunarani}, \binits{A.}},
+\bauthor{\bsnm{Naitik}, \binits{S.}},
+\bauthor{\bsnm{Al~Ansari}, \binits{M.S.}},
+\bauthor{\bsnm{Younas}, \binits{A.}}:
+\bctitle{Improved red deer algorithm for scientific workflow scheduling in
+  cloud environment}.
+In: \bbtitle{2023 5th International Conference on Inventive Research in
+  Computing Applications (ICIRCA)},
+pp. \bfpage{662}--\blpage{667}
+(\byear{2023}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 26
+\bibitem[\protect\citeauthoryear{Goyal and Singh}{2012}]{AntColonyOptimization}
+\begin{botherref}
+\oauthor{\bsnm{Goyal}, \binits{S.}},
+\oauthor{\bsnm{Singh}, \binits{M.}}:
+Adaptive and dynamic load balancing in grid using ant colony optimization.
+International Journal of Engineering and Technology
+\textbf{4}
+(2012)
+\end{botherref}
+\endbibitem
+
+%%% 27
+\bibitem[\protect\citeauthoryear{Kruekaew and Kimpan}{2020}]{bib12}
+\begin{botherref}
+\oauthor{\bsnm{Kruekaew}, \binits{B.}},
+\oauthor{\bsnm{Kimpan}, \binits{W.}}:
+Enhancing of artificial bee colony algorithm for virtual machine scheduling and
+  load balancing problem in cloud computing.
+International Journal of Computational Intelligence Systems
+\textbf{13}
+(2020)
+\doiurl{10.2991/ijcis.d.200410.002}
+\end{botherref}
+\endbibitem
+
+%%% 28
+\bibitem[\protect\citeauthoryear{Sefati et~al.}{2022}]{GWO}
+\begin{botherref}
+\oauthor{\bsnm{Sefati}, \binits{S.S.}},
+\oauthor{\bsnm{Mousavinasab}, \binits{M.}},
+\oauthor{\bsnm{Farkhady}, \binits{R.}}:
+Load balancing in cloud computing environment using the grey wolf optimization
+  algorithm based on the reliability: performance evaluation.
+The Journal of Supercomputing
+\textbf{78}
+(2022)
+\doiurl{10.1007/s11227-021-03810-8}
+\end{botherref}
+\endbibitem
+
+%%% 29
+\bibitem[\protect\citeauthoryear{Lilhore et~al.}{2025}]{lilhore2025}
+\begin{barticle}
+\bauthor{\bsnm{Lilhore}, \binits{U.K.}},
+\bauthor{\bsnm{Simaiya}, \binits{S.}},
+\bauthor{\bsnm{Prajapati}, \binits{Y.N.}},
+\bauthor{\bsnm{Rai}, \binits{A.K.}},
+\bauthor{\bsnm{Ghith}, \binits{E.S.}},
+\bauthor{\bsnm{Tlija}, \binits{M.}},
+\bauthor{\bsnm{Lamoudan}, \binits{T.}},
+\bauthor{\bsnm{Abdelhamid}, \binits{A.A.}}:
+\batitle{A multi-objective approach to load balancing in cloud environments
+  integrating {ACO} and {WWO} techniques}.
+\bjtitle{Scientific Reports}
+\bvolume{15},
+\bfpage{12036}
+(\byear{2025})
+\doiurl{10.1038/s41598-025-96364-1}
+\end{barticle}
+\endbibitem
+
+%%% 30
+\bibitem[\protect\citeauthoryear{Shi et~al.}{2019}]{space-shared}
+\begin{barticle}
+\bauthor{\bsnm{Shi}, \binits{L.}},
+\bauthor{\bsnm{Wang}, \binits{X.}},
+\bauthor{\bsnm{Ma}, \binits{R.T.}},
+\bauthor{\bsnm{Tay}, \binits{Y.C.}}:
+\batitle{Weighted fair caching: Occupancy-centric allocation for space-shared
+  resources}.
+\bjtitle{ACM SIGMETRICS Performance Evaluation Review}
+\bvolume{46}(\bissue{3}),
+\bfpage{35}--\blpage{36}
+(\byear{2019})
+\end{barticle}
+\endbibitem
+
+%%% 31
+\bibitem[\protect\citeauthoryear{Zanbouri and
+  Navimipour}{2019}]{normalise-HB-cloud-paper}
+\begin{botherref}
+\oauthor{\bsnm{Zanbouri}, \binits{K.}},
+\oauthor{\bsnm{Navimipour}, \binits{N.}}:
+A cloud service composition method using a trust‐based clustering algorithm
+  and honeybee mating optimization algorithm.
+International Journal of Communication Systems
+\textbf{33}
+(2019)
+\doiurl{10.1002/dac.4259}
+\end{botherref}
+\endbibitem
+
+%%% 32
+\bibitem[\protect\citeauthoryear{Calheiros et~al.}{2011}]{cloudsim}
+\begin{barticle}
+\bauthor{\bsnm{Calheiros}, \binits{R.N.}},
+\bauthor{\bsnm{Ranjan}, \binits{R.}},
+\bauthor{\bsnm{Beloglazov}, \binits{A.}},
+\bauthor{\bsnm{De~Rose}, \binits{C.A.}},
+\bauthor{\bsnm{Buyya}, \binits{R.}}:
+\batitle{Cloudsim: a toolkit for modeling and simulation of cloud computing
+  environments and evaluation of resource provisioning algorithms}.
+\bjtitle{Software: Practice and experience}
+\bvolume{41}(\bissue{1}),
+\bfpage{23}--\blpage{50}
+(\byear{2011})
+\end{barticle}
+\endbibitem
+
+%%% 33
+\bibitem[\protect\citeauthoryear{Silva~Filho et~al.}{2017}]{cloudsimplusPaper}
+\begin{bchapter}
+\bauthor{\bsnm{Silva~Filho}, \binits{M.C.}},
+\bauthor{\bsnm{Oliveira}, \binits{R.L.}},
+\bauthor{\bsnm{Monteiro}, \binits{C.C.}},
+\bauthor{\bsnm{In{\'a}cio}, \binits{P.R.}},
+\bauthor{\bsnm{Freire}, \binits{M.M.}}:
+\bctitle{Cloudsim plus: a cloud computing simulation framework pursuing
+  software engineering principles for improved modularity, extensibility and
+  correctness}.
+In: \bbtitle{2017 IFIP/IEEE Symposium on Integrated Network and Service
+  Management (IM)},
+pp. \bfpage{400}--\blpage{406}
+(\byear{2017}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 34
+\bibitem[\protect\citeauthoryear{Hassanat et~al.}{2019}]{hassanat2019GA}
+\begin{barticle}
+\bauthor{\bsnm{Hassanat}, \binits{A.}},
+\bauthor{\bsnm{Almohammadi}, \binits{K.}},
+\bauthor{\bsnm{Alkafaween}, \binits{E.}},
+\bauthor{\bsnm{Abunawas}, \binits{E.}},
+\bauthor{\bsnm{Hammouri}, \binits{A.}},
+\bauthor{\bsnm{Prasath}, \binits{V.S.}}:
+\batitle{Choosing mutation and crossover ratios for genetic algorithms—a
+  review with a new dynamic approach}.
+\bjtitle{Information}
+\bvolume{10}(\bissue{12}),
+\bfpage{390}
+(\byear{2019})
+\end{barticle}
+\endbibitem
+
+%%% 35
+\bibitem[\protect\citeauthoryear{Makasarwala and Hazari}{2016}]{GA}
+\begin{bchapter}
+\bauthor{\bsnm{Makasarwala}, \binits{H.A.}},
+\bauthor{\bsnm{Hazari}, \binits{P.}}:
+\bctitle{Using genetic algorithm for load balancing in cloud computing}.
+In: \bbtitle{2016 8th International Conference on Electronics, Computers and
+  Artificial Intelligence (ECAI)},
+pp. \bfpage{1}--\blpage{6}
+(\byear{2016}).
+\bcomment{IEEE}
+\end{bchapter}
+\endbibitem
+
+%%% 36
+\bibitem[\protect\citeauthoryear{Mirjalili et~al.}{2014}]{mirjalili2014grey}
+\begin{barticle}
+\bauthor{\bsnm{Mirjalili}, \binits{S.}},
+\bauthor{\bsnm{Mirjalili}, \binits{S.M.}},
+\bauthor{\bsnm{Lewis}, \binits{A.}}:
+\batitle{Grey wolf optimizer}.
+\bjtitle{Advances in engineering software}
+\bvolume{69},
+\bfpage{46}--\blpage{61}
+(\byear{2014})
+\end{barticle}
+\endbibitem
+
+%%% 37
+\bibitem[\protect\citeauthoryear{Mirjalili and Lewis}{2016}]{Mirjalili2016WOA}
+\begin{barticle}
+\bauthor{\bsnm{Mirjalili}, \binits{S.}},
+\bauthor{\bsnm{Lewis}, \binits{A.}}:
+\batitle{The whale optimization algorithm}.
+\bjtitle{Advances in engineering software}
+\bvolume{95},
+\bfpage{51}--\blpage{67}
+(\byear{2016})
+\end{barticle}
+\endbibitem
+
+%%% 38
+\bibitem[\protect\citeauthoryear{Shi et~al.}{1998}]{shi1998modifiedPSO}
+\begin{bchapter}
+\bauthor{\bsnm{Shi}, \binits{Y.}},
+\bauthor{\bsnm{Eberhart}, \binits{R.}}, \betal:
+\bctitle{A modified particle swarm optimizer}.
+In: \bbtitle{Evolutionary Computation Proceedings},
+vol. \bseriesno{890},
+pp. \bfpage{69}--\blpage{73}
+(\byear{1998})
+\end{bchapter}
+\endbibitem
+
+%%% 39
+\bibitem[\protect\citeauthoryear{Rezaeinia et~al.}{2023}]{Jain_fairness_index}
+\begin{barticle}
+\bauthor{\bsnm{Rezaeinia}, \binits{N.}},
+\bauthor{\bsnm{G{\'o}ez}, \binits{J.C.}},
+\bauthor{\bsnm{Guajardo}, \binits{M.}}:
+\batitle{On efficiency and the jain’s fairness index in integer assignment
+  problems}.
+\bjtitle{Computational Management Science}
+\bvolume{20}(\bissue{1}),
+\bfpage{42}
+(\byear{2023})
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
