@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.28)  8 AUG 2026 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.28)  18 AUG 2026 02:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1180,24 +1180,24 @@ Package hyperref Info: Link coloring ON on input line 23.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 40.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
 
 
 (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
 
 
 (c:/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 40
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 41
 .
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 40
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 41
 .
-LaTeX Font Info:    Calculating math sizes for size <> on input line 40.
+LaTeX Font Info:    Calculating math sizes for size <> on input line 41.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1215,7 +1215,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-Overfull \hbox (7.57251pt too wide) in paragraph at lines 86--86
+Overfull \hbox (7.57251pt too wide) in paragraph at lines 87--87
  \OT1/cmr/m/n/7 tion/threshold 
  []
 
@@ -1231,134 +1231,134 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 149.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 150.
 
-Underfull \hbox (badness 3396) in paragraph at lines 154--154
+Underfull \hbox (badness 3396) in paragraph at lines 155--155
 []\OT1/cmr/m/n/8.03 Goyal and Singh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
 []\OT1/cmr/m/n/8.03 Grid-specific, only
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
 \OT1/cmr/m/n/8.03 com-pared against
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--156
+Underfull \hbox (badness 10000) in paragraph at lines 155--157
 \OT1/cmr/m/n/8.03 a no-load-balancing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
 []\OT1/cmr/m/n/8.03 Kruekaew and
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 157--157
+Underfull \hbox (badness 7047) in paragraph at lines 158--158
 []\OT1/cmr/m/n/8.03 Minimizes makespan;
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 157--159
+Underfull \hbox (badness 2103) in paragraph at lines 158--160
 \OT1/cmr/m/n/8.03 ing; high oper-a-tional
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 160--160
+Underfull \hbox (badness 3219) in paragraph at lines 161--161
 []\OT1/cmr/m/n/8.03 Lower response time
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
 []\OT1/cmr/m/n/8.03 Computational
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 160--162
+Underfull \hbox (badness 2027) in paragraph at lines 161--163
 \OT1/cmr/m/n/8.03 over-head; lacks secu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 []\OT1/cmr/m/n/8.03 Anbarkhan and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 []\OT1/cmr/m/n/8.03 Reduces par-ti-cle
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 \OT1/cmr/m/n/8.03 dimen-sion-al-ity via
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 \OT1/cmr/m/n/8.03 work-flow task pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 \OT1/cmr/m/n/8.03 pro-cess-ing, improved
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 \OT1/cmr/m/n/8.03 ini-tial-iza-tion ensures
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--163
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 \OT1/cmr/m/n/8.03 makespan and cost
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 163--165
+Underfull \hbox (badness 5245) in paragraph at lines 164--166
 \OT1/cmr/m/n/8.03 work-loads (max 300
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 \OT1/cmr/m/n/8.03 and fault tol-er-ance;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
 \OT1/cmr/m/n/8.03 nar-row com-par-a-tive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 \OT1/cmr/m/n/8.03 ing time, lower
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 \OT1/cmr/m/n/8.03 energy con-sump-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 \OT1/cmr/m/n/8.03 homo-ge-neous and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
 \OT1/cmr/m/n/8.03 het-ero-ge-neous cloud
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
 []\OT1/cmr/m/n/8.03 High com-pu-ta-tional
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
 \OT1/cmr/m/n/8.03 vari-abil-ity across
  []
 
@@ -1367,7 +1367,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 170--173
 File: Images/RDA/proposed-load-balancing-system.png Graphic file (type png)
 <use Images/RDA/proposed-load-balancing-system.png>
 Package pdftex.def Info: Images/RDA/proposed-load-balancing-system.png  used on
- input line 178.
+ input line 179.
 (pdftex.def)             Requested size: 334.79773pt x 217.0706pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1391,9 +1391,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 326.
+put line 327.
 
-Underfull \hbox (badness 2065) in paragraph at lines 338--339
+Underfull \hbox (badness 2065) in paragraph at lines 339--340
 [] \OT1/cmr/m/n/9 Cal-cu-late $\OML/cmm/m/it/9 makespan$ \OT1/cmr/m/n/9 using E
 q. ([][]3[][]), $\OML/cmm/m/it/9 avgUtilization$ \OT1/cmr/m/n/9 using Eqs. ([][
 ]4[][]) and ([][]5[][]),
@@ -1415,7 +1415,7 @@ File: Images/RDA/representation_of_a_red_deer_as_a_cloudlet_to_VM.jpeg Graphic
 file (type jpg)
 <use Images/RDA/representation_of_a_red_deer_as_a_cloudlet_to_VM.jpeg>
 Package pdftex.def Info: Images/RDA/representation_of_a_red_deer_as_a_cloudlet_
-to_VM.jpeg  used on input line 460.
+to_VM.jpeg  used on input line 461.
 (pdftex.def)             Requested size: 334.79773pt x 177.44128pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1425,7 +1425,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: Images/RDA/roaring_phase_fig.png Graphic file (type png)
 <use Images/RDA/roaring_phase_fig.png>
 Package pdftex.def Info: Images/RDA/roaring_phase_fig.png  used on input line 4
-92.
+93.
 (pdftex.def)             Requested size: 334.79773pt x 275.99182pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1438,7 +1438,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: Images/RDA/fighting_phase_fig.png Graphic file (type png)
 <use Images/RDA/fighting_phase_fig.png>
 Package pdftex.def Info: Images/RDA/fighting_phase_fig.png  used on input line 
-551.
+552.
 (pdftex.def)             Requested size: 334.79773pt x 309.00766pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1448,7 +1448,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: Images/RDA/harem_formation_fig.png Graphic file (type png)
 <use Images/RDA/harem_formation_fig.png>
 Package pdftex.def Info: Images/RDA/harem_formation_fig.png  used on input line
- 579.
+ 580.
 (pdftex.def)             Requested size: 334.79773pt x 253.29341pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1470,7 +1470,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: Images/cloudSimPlus_architecture_fig.jpeg Graphic file (type jpg)
 <use Images/cloudSimPlus_architecture_fig.jpeg>
 Package pdftex.def Info: Images/cloudSimPlus_architecture_fig.jpeg  used on inp
-ut line 787.
+ut line 788.
 (pdftex.def)             Requested size: 334.79773pt x 169.28067pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1479,12 +1479,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Underfull \hbox (badness 10000) in paragraph at lines 891--892
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
 []\OT1/cmr/m/n/8.03 Grey Wolf Opti-mizer
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 897--898
+Underfull \hbox (badness 1400) in paragraph at lines 898--899
 []\OT1/cmr/m/n/8.03 Particle Swarm Opti-miza-
  []
 
@@ -1496,14 +1496,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: Images/Results/Cloudlets_Makespan.png Graphic file (type png)
 <use Images/Results/Cloudlets_Makespan.png>
 Package pdftex.def Info: Images/Results/Cloudlets_Makespan.png  used on input l
-ine 939.
+ine 940.
 (pdftex.def)             Requested size: 182.28204pt x 114.28987pt.
 <Images/Results/boxplot_Cloudlets_Makespan.png, id=582, 780.516pt x 423.2613pt>
 
 File: Images/Results/boxplot_Cloudlets_Makespan.png Graphic file (type png)
 <use Images/Results/boxplot_Cloudlets_Makespan.png>
 Package pdftex.def Info: Images/Results/boxplot_Cloudlets_Makespan.png  used on
- input line 950.
+ input line 951.
 (pdftex.def)             Requested size: 182.28204pt x 95.49742pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1514,10 +1514,10 @@ ets_Makespan.png>]
 File: Images/Results/Cloudlets_AvgRT.png Graphic file (type png)
 <use Images/Results/Cloudlets_AvgRT.png>
 Package pdftex.def Info: Images/Results/Cloudlets_AvgRT.png  used on input line
- 982.
+ 983.
 (pdftex.def)             Requested size: 182.28204pt x 114.28987pt.
 
-Underfull \hbox (badness 1092) in paragraph at lines 983--983
+Underfull \hbox (badness 1092) in paragraph at lines 984--984
 []\OT1/cmr/m/n/9 (a) |Aver-age response time under vary-ing
  []
 
@@ -1525,7 +1525,7 @@ Underfull \hbox (badness 1092) in paragraph at lines 983--983
 File: Images/Results/boxplot_Cloudlets_AvgRT.png Graphic file (type png)
 <use Images/Results/boxplot_Cloudlets_AvgRT.png>
 Package pdftex.def Info: Images/Results/boxplot_Cloudlets_AvgRT.png  used on in
-put line 993.
+put line 994.
 (pdftex.def)             Requested size: 182.28204pt x 94.85374pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1538,7 +1538,7 @@ File: Images/Results/Comparison/comparison_bars_AvgRT.png Graphic file (type pn
 g)
 <use Images/Results/Comparison/comparison_bars_AvgRT.png>
 Package pdftex.def Info: Images/Results/Comparison/comparison_bars_AvgRT.png  u
-sed on input line 1021.
+sed on input line 1022.
 (pdftex.def)             Requested size: 182.28204pt x 107.52054pt.
 <Images/Results/Comparison/improvement_matrix_AvgRT.png, id=614, 679.5789pt x 5
 70.6921pt>
@@ -1546,10 +1546,10 @@ File: Images/Results/Comparison/improvement_matrix_AvgRT.png Graphic file (type
  png)
 <use Images/Results/Comparison/improvement_matrix_AvgRT.png>
 Package pdftex.def Info: Images/Results/Comparison/improvement_matrix_AvgRT.png
-  used on input line 1032.
+  used on input line 1033.
 (pdftex.def)             Requested size: 182.28204pt x 152.63632pt.
 
-Underfull \hbox (badness 5359) in paragraph at lines 1033--1033
+Underfull \hbox (badness 5359) in paragraph at lines 1034--1034
 []\OT1/cmr/m/n/9 (b) |Per-cent-age improve-ment matrix for
  []
 
@@ -1564,7 +1564,7 @@ File: Images/Results/Convergence/convergence_Cloudlets_2000.png Graphic file (t
 ype png)
 <use Images/Results/Convergence/convergence_Cloudlets_2000.png>
 Package pdftex.def Info: Images/Results/Convergence/convergence_Cloudlets_2000.
-png  used on input line 1075.
+png  used on input line 1076.
 (pdftex.def)             Requested size: 182.28204pt x 133.48534pt.
 <Images/Results/Convergence/convergence_comparison_Population.png, id=634, 715.
 473pt x 426.1521pt>
@@ -1572,7 +1572,7 @@ File: Images/Results/Convergence/convergence_comparison_Population.png Graphic
 file (type png)
 <use Images/Results/Convergence/convergence_comparison_Population.png>
 Package pdftex.def Info: Images/Results/Convergence/convergence_comparison_Popu
-lation.png  used on input line 1082.
+lation.png  used on input line 1083.
 (pdftex.def)             Requested size: 182.28204pt x 105.33069pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1585,7 +1585,7 @@ File: Images/Results/ParameterAnalysis/Alpha_Makespan.png Graphic file (type pn
 g)
 <use Images/Results/ParameterAnalysis/Alpha_Makespan.png>
 Package pdftex.def Info: Images/Results/ParameterAnalysis/Alpha_Makespan.png  u
-sed on input line 1104.
+sed on input line 1105.
 (pdftex.def)             Requested size: 166.09789pt x 106.77342pt.
 <Images/Results/ParameterAnalysis/Beta_Makespan.png, id=650, 708.246pt x 455.30
 1pt>
@@ -1593,7 +1593,7 @@ File: Images/Results/ParameterAnalysis/Beta_Makespan.png Graphic file (type png
 )
 <use Images/Results/ParameterAnalysis/Beta_Makespan.png>
 Package pdftex.def Info: Images/Results/ParameterAnalysis/Beta_Makespan.png  us
-ed on input line 1111.
+ed on input line 1112.
 (pdftex.def)             Requested size: 166.09789pt x 106.77342pt.
 <Images/Results/ParameterAnalysis/Gamma_Makespan.png, id=651, 708.246pt x 455.3
 01pt>
@@ -1601,7 +1601,7 @@ File: Images/Results/ParameterAnalysis/Gamma_Makespan.png Graphic file (type pn
 g)
 <use Images/Results/ParameterAnalysis/Gamma_Makespan.png>
 Package pdftex.def Info: Images/Results/ParameterAnalysis/Gamma_Makespan.png  u
-sed on input line 1118.
+sed on input line 1119.
 (pdftex.def)             Requested size: 166.09789pt x 106.77342pt.
 <Images/Results/ParameterAnalysis/Iterations_Makespan.png, id=652, 708.246pt x 
 455.301pt>
@@ -1609,7 +1609,7 @@ File: Images/Results/ParameterAnalysis/Iterations_Makespan.png Graphic file (ty
 pe png)
 <use Images/Results/ParameterAnalysis/Iterations_Makespan.png>
 Package pdftex.def Info: Images/Results/ParameterAnalysis/Iterations_Makespan.p
-ng  used on input line 1125.
+ng  used on input line 1126.
 (pdftex.def)             Requested size: 166.09789pt x 106.77342pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1621,7 +1621,7 @@ Makespan.png> <./Images/Results/ParameterAnalysis/Iterations_Makespan.png>]
 File: Images/Results/Cloudlets_AvgUtilization.png Graphic file (type png)
 <use Images/Results/Cloudlets_AvgUtilization.png>
 Package pdftex.def Info: Images/Results/Cloudlets_AvgUtilization.png  used on i
-nput line 1147.
+nput line 1148.
 (pdftex.def)             Requested size: 372.0pt x 239.14775pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1630,7 +1630,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <runtime_scalability.png, id=673, 925.056pt x 364.4817pt>
 File: runtime_scalability.png Graphic file (type png)
 <use runtime_scalability.png>
-Package pdftex.def Info: runtime_scalability.png  used on input line 1197.
+Package pdftex.def Info: runtime_scalability.png  used on input line 1198.
 (pdftex.def)             Requested size: 372.0pt x 146.57426pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1669,7 +1669,7 @@ Package rerunfilecheck Info: File `Main_paper_doc.out' has not changed.
 Here is how much of TeX's memory you used:
  26369 strings out of 467168
  495100 string characters out of 5413705
- 889109 words of memory out of 5000000
+ 890108 words of memory out of 5000000
  54987 multiletter control sequences out of 15000+600000
  658286 words of font info for 157 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
@@ -1697,7 +1697,7 @@ amsfonts/cm/cmsy9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.
 pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/te
 xlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on Main_paper_doc.pdf (42 pages, 3958502 bytes).
+Output written on Main_paper_doc.pdf (42 pages, 3958527 bytes).
 PDF statistics:
  907 PDF objects out of 1000 (max. 8388607)
  752 compressed objects within 8 object streams
