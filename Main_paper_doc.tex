@@ -1192,18 +1192,13 @@ where $\bar{x}_1$ and $\bar{x}_2$ represent mean performance metrics for compare
 }
 \end{table*}
 
+\textbf{Results and Interpretation:} Comparison of all algorithms is stated pairwise. Comparisons involving RDA obtained p-values substantially below the significance threshold ($p < 0.001$ for both t-tests and Wilcoxon tests), indicating statistically significant performance differences. Specifically: RDA versus PSO yielded t-test p-value $2.99 \times 10^{-7}$ with Wilcoxon p-value $2.37 \times 10^{-5}$ (large effect size); RDA versus WOA produced p-values of $1.97 \times 10^{-8}$ and $1.42 \times 10^{-6}$ respectively; RDA versus GA achieved $4.99 \times 10^{-8}$ and $8.01 \times 10^{-8}$; and RDA versus GWO demonstrated $9.60 \times 10^{-9}$ and $2.05 \times 10^{-7}$.
 
-\begin{figure*}[htbp]
-\centering
-\includegraphics[width=\textwidth]{Images/runtime_scalability.png}
-\caption{Computational runtime analysis of the evaluated metaheuristic
-schedulers: (a) mean wall clock scheduling runtime under increasing cloudlet
-workloads on a logarithmic scale; (b) empirical runtime scaling of the
-proposed RDA. Error bars represent 95\% confidence intervals across
-independent runs.}
-\label{fig:runtime_scalability}
-\end{figure*}
+Large effect sizes (Cohen's $d > 0.8$) in comparisons involving RDA indicate that observed improvements are  statistically significant and represent practically meaningful performance gains.
 
+In contrast, comparisons among non-RDA algorithms (PSO vs. WOA: p = 0.3571; PSO vs. GA: p = 0.0340; WOA vs. GWO: p = 0.3123) revealed relatively similar scheduling behavior with smaller effect sizes.
+
+In summary, the statistical analysis supports the proposed RDA based scheduling in achieving statistically significant performance improvements over established metaheuristic algorithms.
 
 \subsection{Runtime Overhead Analysis}
 \label{subsec:runtime_overhead}
@@ -1212,6 +1207,17 @@ Figure~\ref{fig:runtime_scalability} presents the wall clock scheduling
 runtime of the proposed RDA and the competing metaheuristic algorithms under
 increasing cloudlet workloads. This metric measures the computational time
 required by an algorithm to generate a cloudlet to VM mapping. The reported values are mean scheduler runtimes, with 95\% confidence intervals obtained from the independent experimental runs.
+
+\begin{figure*}[htbp]
+	\centering
+	\includegraphics[width=\textwidth]{Images/runtime_scalability.png}
+	\caption{Computational runtime analysis of the evaluated metaheuristic
+		schedulers: (a) mean wall clock scheduling runtime under increasing cloudlet
+		workloads on a logarithmic scale; (b) empirical runtime scaling of the
+		proposed RDA. Error bars represent 95\% confidence intervals across
+		independent runs.}
+	\label{fig:runtime_scalability}
+\end{figure*}
 
 As shown in Fig.~\ref{fig:runtime_scalability}(a), the runtime of all
 algorithms increased as the workload grew from 100 to 2,000 cloudlets.
@@ -1235,15 +1241,6 @@ runtime. This empirical fit is consistent with the expected polynomial
 computational cost of population based RDA for fixed population size and
 iteration count but it does not replace the worst case theoretical complexity
 analysis presented in Section~\ref{subsec:complexity_analysis}.
-
-
-\textbf{Results and Interpretation:} Comparison of all algorithms is stated pairwise. Comparisons involving RDA obtained p-values substantially below the significance threshold ($p < 0.001$ for both t-tests and Wilcoxon tests), indicating statistically significant performance differences. Specifically: RDA versus PSO yielded t-test p-value $2.99 \times 10^{-7}$ with Wilcoxon p-value $2.37 \times 10^{-5}$ (large effect size); RDA versus WOA produced p-values of $1.97 \times 10^{-8}$ and $1.42 \times 10^{-6}$ respectively; RDA versus GA achieved $4.99 \times 10^{-8}$ and $8.01 \times 10^{-8}$; and RDA versus GWO demonstrated $9.60 \times 10^{-9}$ and $2.05 \times 10^{-7}$.
-
-Large effect sizes (Cohen's $d > 0.8$) in comparisons involving RDA indicate that observed improvements are  statistically significant and represent practically meaningful performance gains.
-
-In contrast, comparisons among non-RDA algorithms (PSO vs. WOA: p = 0.3571; PSO vs. GA: p = 0.0340; WOA vs. GWO: p = 0.3123) revealed relatively similar scheduling behavior with smaller effect sizes.
-
-In summary, the statistical analysis supports the proposed RDA based scheduling in achieving statistically significant performance improvements over established metaheuristic algorithms.
 
 \FloatBarrier
 \section{Conclusion and Future Work}\label{sec7}
